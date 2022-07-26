@@ -5,6 +5,7 @@ Integrantes:
  - **Ítala Vitória**
  - **Linda Hillary**
  - **Mateus Santos**
+ - **Newdon Ataide**
 
 ## Como instalar as dependências
 
